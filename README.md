@@ -17,7 +17,7 @@ The first step of this project was to calibrate the camera and calculate the dis
 
 The distortion correction applied to a given picture:
 
-![Undistorted](https://github.com/ranceaaa/PROJECT-2---ADVANCED-LANE-FINDING/blob/master/images/undistort.jpg).
+![Undistorted](https://github.com/ranceaaa/PROJECT-2---ADVANCED-LANE-FINDING/blob/master/images/undist.jpg).
 
 ## COLOR AND GRADIENTS TRANSFORMATIONS
 
