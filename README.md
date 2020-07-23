@@ -48,6 +48,8 @@ After all the computations were made, the images is unwarped and a mask with the
 
 In output_video folder, the videos can be seen. The first one: project_video is using only fit_polynomial function. The second one: challenge_video si using both fit_polynomial and search_around_poly functions and takes into consideration the last detected lanes.
 
+![Final results](https://github.com/ranceaaa/PROJECT-2---ADVANCED-LANE-FINDING/blob/master/images/final.png).
+
 ## PROBLEMS
 
 1. Region of interest ( perspective transform) / camera position on different videos
