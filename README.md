@@ -23,13 +23,20 @@ The distortion correction applied to a given picture:
 
 This part took a lot of time because I was trying to find a 'perfect' combination. This wasn't possible and the best one I came with can be found in function: best_mask. <> More pictures can be seen in the images folder.
 
+![Binary](https://github.com/ranceaaa/PROJECT-2---ADVANCED-LANE-FINDING/blob/master/images/binary(3).jpg).
+
 ## PERSPECTIVE TRANSFROMATION
 
 In this part of the project, the goal was to change the perspective to a top view perspective. This was done in functions warp and unwarp
 
+![Transformation](https://github.com/ranceaaa/PROJECT-2---ADVANCED-LANE-FINDING/blob/master/images/transform.jpg).
+
 ## LINE DETECTION USING POLYNOMIAL
 
-Line detection is achieved using 2 functions: fit_polynomial and search_around_poly. The first one is doing a complete detection and the second one is looking only on the top to check for changes and detect the new lines. <> 
+Line detection is achieved using 2 functions: fit_polynomial and search_around_poly. The first one is doing a complete detection and the second one is looking only on the top to check for changes and detect the new lines. 
+
+![Line detection](https://github.com/ranceaaa/PROJECT-2---ADVANCED-LANE-FINDING/blob/master/images/outfit1.jpg).
+
 
 ## CURVATURE AND CAR POSITION
 
