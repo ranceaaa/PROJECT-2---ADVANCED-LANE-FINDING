@@ -15,6 +15,10 @@ The goals of this project are the following:
 
 The first step of this project was to calibrate the camera and calculate the distorsion coefficients. This can be seen in the second cell of the jupyter notebook and the results in this picture ![Calibrated](https://github.com/ranceaaa/PROJECT-2---ADVANCED-LANE-FINDING/blob/master/images/calibrated.png).
 
+The distortion correction applied to a given picture:
+
+![Undistorted](https://github.com/ranceaaa/PROJECT-2---ADVANCED-LANE-FINDING/blob/master/images/undistort.jpg).
+
 ## COLOR AND GRADIENTS TRANSFORMATIONS
 
 This part took a lot of time because I was trying to find a 'perfect' combination. This wasn't possible and the best one I came with can be found in function: best_mask. <> More pictures can be seen in the images folder.
