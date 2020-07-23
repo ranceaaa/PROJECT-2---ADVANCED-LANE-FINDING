@@ -13,7 +13,11 @@ The goals of this project are the following:
 
 ## CAMERA CALIBRATION
 
-The first step of this project was to calibrate the camera and calculate the distorsion coefficients. This can be seen in the second cell of the jupyter notebook and the results in this picture <>.
+The first step of this project was to calibrate the camera and calculate the distorsion coefficients. This can be seen in the second cell of the jupyter notebook and the results in this picture ![Calibrated](https://github.com/ranceaaa/PROJECT-2---ADVANCED-LANE-FINDING/blob/master/images/calibrated.png).
+
+The distortion correction applied to a given picture:
+
+![Undistorted](https://github.com/ranceaaa/PROJECT-2---ADVANCED-LANE-FINDING/blob/master/images/undistort.jpg).
 
 ## COLOR AND GRADIENTS TRANSFORMATIONS
 
