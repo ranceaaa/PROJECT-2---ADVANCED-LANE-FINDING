@@ -1,8 +1,8 @@
 # ADVANCED LANE FINDING
 
 The goals of this project are the following: 
-    Compute the camera calibration matrix and distortion coefﬁcients given a set of chessboard images. 
-  Apply a distortion correction to raw images. 
+  1. Compute the camera calibration matrix and distortion coefﬁcients given a set of chessboard images. 
+  2. Apply a distortion correction to raw images. 
   Use color transforms, gradients, etc., to create a thresholded binary image. 
   Apply a perspective transform to rectify binary image ("birds-eye view"). 
   Detect lane pixels and ﬁt to ﬁnd the lane boundary. 
